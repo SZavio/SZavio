@@ -23,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo-SolidWorks.svg" title="SolidWorks" alt="SolidWorks" width="70" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/CATIA-Logo.png" title="CATIA" alt="CATIA" width="70" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ansys_logo.svg" title="ANSYS" alt="ANSYS" width="100" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>  
 </div>  
 
 ## 📫 Bora trocar uma ideia?  
