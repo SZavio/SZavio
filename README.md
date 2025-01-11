@@ -10,9 +10,6 @@
 🎓 **Engenheiro em formação** — Explorando ideias criativas e desafios técnicos.    
 🖥️ **Entusiasta de Tecnologia** — Automação, coleta de dados, invenções e aquele toque de inovação.  
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-
 ## 🎯 Minhas habilidades:
 
 ### Linguagens e Ferramentas  
