@@ -1,7 +1,7 @@
-# 🐰 Ei, tudo tranquilo? Seja bem-vindo ao meu espaço!  
+# Ei, tudo tranquilo? Seja bem-vindo ao meu espaço!  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="40%" alt="Pernalonga relaxando"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hlMDBsYWZ6cXV6aHRyenRmcnN1MjByMzUwdWg5a2J2bWY3NDR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNbj7i7k2XBwwFiBBu/giphy.webp" width="40%" alt="Pernalonga relaxando"/>
 </div>  
 
 ---
@@ -23,9 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" title="SolidWorks" alt="SolidWorks" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/catia/catia-original.svg" title="CATIA" alt="CATIA" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ansys_logo.svg" title="ANSYS" alt="ANSYS" width="80" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo-SolidWorks.svg" title="SolidWorks" alt="SolidWorks" width="70" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/CATIA-Logo.png" title="CATIA" alt="CATIA" width="70" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ansys_logo.svg" title="ANSYS" alt="ANSYS" width="100" height="40"/>  
 </div>  
 
 ## 📫 Bora trocar uma ideia?  
